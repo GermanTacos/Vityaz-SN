@@ -101,6 +101,9 @@
 			<stats damage="60" spread="15" spread_moving="15" recoil="22" concealment="26"/>
 			<fire_mode_data fire_rate="0.08"/>
 			<use_data selection_index="1"/>
+			<categories>
+				<value_node value="smg"/>
+			</categories>
 			<AMMO_PICKUP>
 					<value_node value="5"/>
 					<value_node value="10"/>
