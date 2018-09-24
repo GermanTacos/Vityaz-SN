@@ -38,6 +38,6 @@
 	"bm_wp_wpn_fps_smg_heffy_919_st_vityaz"    : "Vityaz-SN Stock",
 	"bm_wp_wpn_fps_smg_heffy_919_pg_vityaz"    : "Vityaz-SN Grip",
 	"bm_wp_wpn_fps_smg_heffy_919_lr_vityaz"    : "Vityaz-SN Receiver",
-	"bm_wp_wpn_fps_smg_heffy_919_ur_vityaz"    : "Vityaz-SN Dust Cover",
+	"bm_wp_wpn_fps_smg_heffy_919_ur_vityaz"    : "Vityaz-SN Dust Cover"
 
 }
