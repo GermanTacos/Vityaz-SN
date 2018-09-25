@@ -97,7 +97,7 @@
 	</WeaponMod>
 	
 	<Weapon unlock_level="0">
-		<weapon id="heffy_919" based_on="flint" CLIP_AMMO_MAX="30" NR_CLIPS_MAX="5" shell_ejection="effects/payday2/particles/weapons/shells/shell_9mm" can_shoot_through_shield="false" can_shoot_through_enemy="false" can_shoot_through_wall="false" tactical_reload="1" texture_bundle_folder="mods" global_value="heffy_919">
+		<weapon id="heffy_919" based_on="flint" CLIP_AMMO_MAX="30" NR_CLIPS_MAX="5" use_stance="heffy_919_ads" shell_ejection="effects/payday2/particles/weapons/shells/shell_9mm" can_shoot_through_shield="false" can_shoot_through_enemy="false" can_shoot_through_wall="false" tactical_reload="1" texture_bundle_folder="mods" global_value="heffy_919">
 			<stats damage="60" spread="15" spread_moving="15" recoil="22" concealment="26"/>
 			<fire_mode_data fire_rate="0.08"/>
 			<use_data selection_index="1"/>
