@@ -13,6 +13,18 @@
 	</WeaponMod>
 	
 	<!-- VITYAZ	-->
+		
+	<WeaponMod id="wpn_fps_smg_heffy_919_chb_vityaz" based_on="wpn_fps_ass_flint_dh_standard" type="bolt" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	
+	<WeaponMod id="wpn_fps_smg_heffy_919_rs_vityaz" based_on="wpn_fps_ass_flint_body_upperreceiver" type="recoil_spring" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	
+	<WeaponMod id="wpn_fps_smg_heffy_919_gb_vityaz" based_on="wpn_fps_ass_flint_body_upperreceiver" type="gas_block" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	
+	<WeaponMod id="wpn_fps_smg_heffy_919_int1_vityaz" based_on="wpn_fps_ass_flint_body_upperreceiver" type="internal1" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	
+	<WeaponMod id="wpn_fps_smg_heffy_919_int2_vityaz" based_on="wpn_fps_ass_flint_body_upperreceiver" type="internal2" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	
+	<WeaponMod id="wpn_fps_smg_heffy_919_int3_vityaz" based_on="wpn_fps_ass_flint_body_upperreceiver" type="internal3" unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
 	<WeaponMod id="wpn_fps_smg_heffy_919_ch_vityaz" based_on="wpn_fps_ass_flint_dh_standard" type="drag_handle" unit="units/mods/weapons/wpn_fps_smg_heffy_919_vityaz_pts/wpn_fps_smg_heffy_919_ch_vityaz" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
@@ -144,6 +156,13 @@
 				<value_node value="wpn_fps_smg_heffy_919_st_vityaz"/>
 				<value_node value="wpn_fps_smg_heffy_919_ro_vityaz"/>
 				<value_node value="wpn_fps_smg_heffy_919_fo_vityaz"/>
+				
+				<value_node value="wpn_fps_smg_heffy_919_chb_vityaz"/>
+				<value_node value="wpn_fps_smg_heffy_919_rs_vityaz"/>
+				<value_node value="wpn_fps_smg_heffy_919_gb_vityaz"/>
+				<value_node value="wpn_fps_smg_heffy_919_int1_vityaz"/>
+				<value_node value="wpn_fps_smg_heffy_919_int2_vityaz"/>
+				<value_node value="wpn_fps_smg_heffy_919_int3_vityaz"/>
 				
 				<value_node value="wpn_fps_smg_heffy_919_m_poly_30"/>
 				
